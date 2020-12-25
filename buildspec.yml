@@ -1,10 +1,5 @@
 ---
 version: 0.2
-
-env:
-     parameter-store:         
-       JWT_SECRET: contrasenia
-
 phases:
   install:
     runtime-versions:
